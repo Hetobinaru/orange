@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "A:/Unity/Projects/Orange/Assets/Maps/Map/Map1.tmx",
+    "activeFile": "rules.tmx",
     "automapping.whileDrawing": false,
     "expandedProjectPaths": [
         ".",
@@ -14,14 +14,15 @@
             "scaleInDock": 1
         },
         ":/automap-tiles.tsx": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "A:/Unity/Projects/Orange/Assets/Maps/Map/Map1.tmx": {
             "scale": 0.2674348958333333,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1024.5484200788744,
-                "y": 1278.8159111933396
+                "x": 1013.3307366473539,
+                "y": 1054.4622425629293
             }
         },
         "A:/Unity/Projects/Orange/Assets/Maps/Orange_spritee.tsx": {
@@ -49,16 +50,31 @@
         "A:/Unity/Projects/Orange/Assets/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/water.tsx": {
             "scaleInDock": 1
         },
+        "A:/orange/Ground.tsx": {
+            "scaleInDock": 1
+        },
+        "A:/orange/Level1.tmx": {
+            "scale": 0.24897916666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1582.4617186846285,
+                "y": 1514.1829135637183
+            }
+        },
+        "A:/orange/construct.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Ground.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 2
         },
         "Level1.tmx": {
-            "scale": 0.5,
+            "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1292,
-                "y": 770
+                "x": 1048.4848484848485,
+                "y": 769.6969696969695
             }
         },
         "Level1.tmx#Orange_spritee": {
@@ -69,14 +85,18 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1920,
-                "y": 1278
+                "x": 1298,
+                "y": 766
             }
         },
         "Orange_spritee.tsx": {
             "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 2
+        },
+        "Prosdtotype.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Prototype.tmx": {
             "scale": 0.25,
@@ -108,8 +128,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 550.6666666666667,
-                "y": 192
+                "x": 546.6666666666667,
+                "y": 286.66666666666674
             }
         },
         "ruletile.tmx": {
@@ -135,23 +155,22 @@
         "Ground.tsx",
         "rules.tmx",
         "Level1.tmx",
-        "construct.tsx",
-        "A:/Unity/Projects/Orange/Assets/Maps/Map/Map1.tmx"
+        "construct.tsx"
     ],
     "project": "Orange.tiled-project",
     "recentFiles": [
-        "Rulees.tmx",
-        "Orange_spritee.tsx",
         "Map/Map1.tmx",
         "Ground.tsx",
-        "rules.tmx",
-        "A:/Unity/Projects/Orange/Assets/Maps/Map/Map1.tmx",
         "construct.tsx",
         "Level1.tmx",
-        "Prototype.tsx",
-        "ruletile.tmx",
-        "ruletile.tsx",
-        "A:/Unity/Projects/Orange/Assets/SuperTiled2Unity/Examples/Overhead/Maps/TestOverhead.tmx"
+        "rules.tmx",
+        "A:/orange/Level1.tmx",
+        "Orange_spritee.tsx",
+        "Prosdtotype.tsx",
+        "A:/orange/construct.tsx",
+        ":/automap-tiles.tsx",
+        "A:/Unity/Projects/Orange/Assets/Maps/Map/Map1.tmx",
+        "Rulees.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
